@@ -1,10 +1,5 @@
 <table>
     <tr>
-        <td align="center" width="100px">
-            <img src="https://avatars.githubusercontent.com/u/105380583?s=200&v=
-            4" width="100px;" alt="MACO Studios Logo"/>
-            <br />
-        </td>
         <td>
             <h1>MACO Studios</h1>
         </td>
